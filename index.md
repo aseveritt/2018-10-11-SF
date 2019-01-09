@@ -5,7 +5,7 @@ venue: "UCSF"        # brief name of host site without address (e.g., "Euphoric 
 address: "Room 302, Rock Hall (Mission Bay)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "USA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "fr"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "37.769682, -122.392262"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "37.769398, -122.391498"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "Feb 28- March 1, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "10:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-02-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -45,7 +45,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is a homepage where you can find times and what will be covered. Mainly this will serve as as a centralized place to locate any documents and topics we cover and will remain active indefinetly. I will update the "Resources Page" tab with any links or references we use at the end. As always, ask me if you have any questions/suggestions. </h4>
+<h4>This is a homepage where you can find times and what will be covered. Mainly this will serve as as a centralized place to locate any documents and topics we cover and will remain active indefinetly. I will update the "Resources Page" tab with any links or references we use at the end. If you intend on coming, please add your name to this [google doc] (https://docs.google.com/spreadsheets/d/1qEWCqTEcQwVRLCR3kNdi6T162BExo0N_a8uxcHTaI54/edit?usp=sharing). As always, ask me if you have any questions/suggestions.</h4>
 
 <h2 id="general">General Information</h2>
 
