@@ -45,7 +45,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is a homepage where you can find times and what will be covered. Mainly this will serve as as a centralized place to locate any documents/topics we cover and will remain active indefinetly. I will update it with any links/references we use at the end. As always, ask me if you have any questions/suggestions. </h4>
+<h4>This is a homepage where you can find times and what will be covered. Mainly this will serve as as a centralized place to locate any documents and topics we cover and will remain active indefinetly. I will update the "Resources Page" tab with any links or references we use at the end. As always, ask me if you have any questions/suggestions. </h4>
 
 <h2 id="general">General Information</h2>
 
