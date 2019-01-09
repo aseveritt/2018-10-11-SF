@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
+carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "UCSF"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Room 302, Rock Hall (Mission Bay)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "USA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
