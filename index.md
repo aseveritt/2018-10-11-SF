@@ -45,7 +45,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is a homepage where you can find times and what will be covered. Mainly this will serve as as a centralized place to locate any documents and topics we cover and will remain active indefinetly. I will update the "Resources Page" tab with any links or references we use at the end. If you intend on coming, please add your name to this <a href="https://docs.google.com/spreadsheets/d/1qEWCqTEcQwVRLCR3kNdi6T162BExo0N_a8uxcHTaI54/edit?usp=sharing">Google Doc</a>. As always, ask me if you have any questions/suggestions.</h4>
+<h4>This is a homepage where you can find the schedule and material covered. The site will remain active indefinitely so you can centrally locate any topics or resources discussed (will be added to "Resources Page" at the conclusion). If you intend on coming, please add your name to this <a href="https://docs.google.com/spreadsheets/d/1qEWCqTEcQwVRLCR3kNdi6T162BExo0N_a8uxcHTaI54/edit?usp=sharing">Google Doc</a>. As always, ask me if you have any questions/suggestions.</h4>
 
 <h2 id="general">General Information</h2>
 
