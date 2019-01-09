@@ -213,7 +213,7 @@ and our administrator may contact you if we need any extra information.</h4>
 <h2 id="schedule">Schedule</h2>
 
 {% if page.carpentry == "swc" %}
-  {% include sc/schedule.html %}
+  {% include sc/my_schedule.html %}
 {% elsif page.carpentry == "dc" %}
   {% include dc/schedule.html %}
 {% elsif page.carpentry == "lc" %}
