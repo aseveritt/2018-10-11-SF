@@ -49,12 +49,12 @@ workshop_site: "https://carpentries.github.io/workshop-template"
 
 # Surveys.
 swc_pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
-swc_post_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
+swc_post_survey: "https://carpentries.typeform.com/to/UgVdRQ?slug="
 training_post_survey: "https://www.surveymonkey.com/r/post-instructor-training"
 dc_pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
-dc_post_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
+dc_post_survey: "https://carpentries.typeform.com/to/UgVdRQ?slug="
 lc_pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
-lc_post_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
+lc_post_survey: "https://carpentries.typeform.com/to/UgVdRQ?slug="
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
 start_time: 0
