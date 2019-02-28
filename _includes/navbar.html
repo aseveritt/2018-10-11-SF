@@ -37,7 +37,8 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
 	{% comment %} Adding resource tab here. {% endcomment %}
-        <li><a href="{{ page.root }}{% link Resources_Page.md %}">Resources Page</a></li>
+        {% comment %}OLD <li><a href="{{ page.root }}{% link Resources_Page.md %}">Resources Page</a></li>{% endcomment %}
+	<li><a href="https://hackmd.io/uWZ9Wu11SAWUnHWnIHw2fw?view">Resources Page</a></li>
 
 	{% comment %} Always show code of conduct. {% endcomment %}
         <li><a href="{{ page.root }}{% link CODE_OF_CONDUCT.md %}">Code of Conduct</a></li>
